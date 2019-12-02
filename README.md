@@ -19,3 +19,6 @@ S3 object containing 3 attributes:
 rake_list is a list of rake IDs that show what sequences are identical to each other
 p.values is a named vector in the same order as rake_list and holds the results of the test
 dist.plot is a ggplot2 plot object that shows a histogram of the distance data
+
+
+Bugs or questions/comments can be directed to michael.bale@nih.gov or michaeljbale93@gmail.com
