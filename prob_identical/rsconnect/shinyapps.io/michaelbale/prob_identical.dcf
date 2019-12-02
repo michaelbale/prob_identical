@@ -1,0 +1,12 @@
+name: prob_identical
+title: prob_identical
+username:
+account: michaelbale
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1549078
+bundleId: 2632721
+url: https://michaelbale.shinyapps.io/prob_identical/
+when: 1575299753.98903
+asMultiple: FALSE
+asStatic: FALSE
